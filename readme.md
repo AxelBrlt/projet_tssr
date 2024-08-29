@@ -20,17 +20,19 @@ Chacun de ces projets a été réalisé en équipe, ce qui nous a permis de dév
 
 Ce dépôt est organisé par projet, chaque dossier contenant :
 
+>[!WARNING]
 > ### À FAIRE
 
 ## Projets Inclus
 
 Voici une liste des projets que vous trouverez dans ce dépôt :
 
+>[!WARNING]
 > ### À FAIRE
 
 
 ---
-
+>[!NOTE]
 >***Équipe du projet :***  
 >- Axel BARRILLIOT 
 >- Nom Prénom 2  
